@@ -20,4 +20,4 @@
 - [18. Lecture 18 - Legal and Accounting Basics for Startups (Kirsty Nathoo, Carolynn Levy)]()
 - [19. Lecture 19 - Sales and Marketing; How to Talk to Investors (Tyler Bosmeny; YC Partners)]()
 - [20. Lecture 20 - Later-stage Advice (Sam Altman)]()
-- [21. YC Startup Talk for Students, 2022]()
+- [21. Lecture 21 - YC Startup Talk for Students, 2022]()
